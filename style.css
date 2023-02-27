@@ -26,8 +26,9 @@ body {
 header {
     display: flex;
     text-align: center;
+    justify-content: center;
     width: 60%;
-    margin-top: 10rem;
+    margin-top: 15rem;
 }
 
 header h1 {
